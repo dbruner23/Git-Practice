@@ -1,9 +1,9 @@
-import Example1 from "./components/Example1.jsx"
+import HelloWorld from "./components/HelloWorld.jsx"
 
 function App() {
   return (
       <div className="App">
-      <Example1/>
+      <HelloWorld/>
     </div>
   );
 }
