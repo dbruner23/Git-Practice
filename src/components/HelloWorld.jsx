@@ -2,7 +2,7 @@ import React from 'react'
 
 const HelloWorld = () => {
   return (
-    <div>HelloWorld</div>
+    <div style={{ color: 'red'}}>HelloWorld</div>
   )
 }
 
